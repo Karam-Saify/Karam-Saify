@@ -3,7 +3,7 @@
 <!-- =============================== -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=6effef&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=00f1be&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
     alt="header"/>
 </div>
 
@@ -48,11 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karam-Saify&layout=compact&title_color=17ffe6&text_color=ffffff&bg_color=0d1117&border_color=0d1117" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karam-Saify&background=0D1117&border=0D1117&ring=17ffe6&fire=36bcf7&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=999999" alt="GitHub Streak" />
-</p>
-
 
 
 ---
