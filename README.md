@@ -14,23 +14,27 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Science** student at  
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Lebanese_American_University_logo.svg/512px-Lebanese_American_University_logo.svg.png" alt="LAU Logo" width="20" style="vertical-align:middle"/>  
+  <img  
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lebanese_American_University_logo.svg/64px-Lebanese_American_University_logo.svg.png"  
+    alt="LAU Logo"  
+    width="20" height="20"  
+    style="vertical-align:middle"/>  
   Lebanese American University  
 - 🔭 Currently working on: **AI/ML Forecasting** & **Frontend Data Tools**  
 - 🌱 Learning: **Advanced Time-Series Models**, **Causal Inference**, **Backend Engineering**  
 - 👯 Looking to collaborate on: **Open-Source Data Science** & **Forecasting Projects**  
 - 💬 Ask me about: **Python, JavaScript, HTML/CSS, Machine Learning, Tableau**  
-- ⚡ Fun fact: I'm passionate about applying ML to real-world supply-chain challenges  
+- ⚡ Fun fact: I love applying ML to solve real-world supply-chain challenges  
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/karam-al-saify/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Karam-Saify" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -51,17 +55,16 @@
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"           alt="Python"      width="40" height="40"/></a>
-  <a href="https://www.numpy.org"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"             alt="NumPy"       width="40" height="40"/></a>
+  <a href="https://numpy.org"             target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"             alt="NumPy"       width="40" height="40"/></a>
   <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"           alt="Pandas"      width="40" height="40"/></a>
   <a href="https://www.java.com"          target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"               alt="Java"        width="40" height="40"/></a>
-  <a href="https://pytorch.org"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"             alt="PyTorch"     width="40" height="40"/></a>
   <a href="https://plotly.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"               alt="Plotly"      width="40" height="40"/></a>
   <a href="https://www.tableau.com"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"             alt="Tableau"     width="40" height="40"/></a>
   <a href="https://www.docker.com"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"               alt="Docker"      width="40" height="40"/></a>
-  <a href="https://www.github.com"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"               alt="GitHub"      width="40" height="40"/></a>
+  <a href="https://github.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"               alt="GitHub"      width="40" height="40"/></a>
 </p>
 
 ---
@@ -70,8 +73,8 @@
 
 | Project                                | Description                                                                                                                         | Link                                                                                                                        |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Mental Health Assessment Web App**   | A responsive app using GAD-7 & PHQ-9 scales to evaluate anxiety/depression, personalized feedback, social-share buttons & mobile UI. | 🔗 [Code](https://github.com/Karam-Saify/mental-health-assessment-webapp) • 🌐 [Demo](https://karam-saify.github.io/mental-health-assessment-webapp) |
-| **Trading Simulator**                  | Java console app with live market-data simulation, threaded price updates, BUY/SELL orders, portfolio summary, P&L analytics & limits. | 🔗 [Code](https://github.com/Karam-Saify/trading-simulator)                                                                 |
+| **Mental Health Assessment Web App**   | Responsive app using GAD-7 & PHQ-9 scales to evaluate anxiety/depression, with personalized feedback and social-share buttons.      | 🔗 [Code](https://github.com/Karam-Saify/mental-health-assessment-webapp) • 🌐 [Demo](https://karam-saify.github.io/mental-health-assessment-webapp) |
+| **Trading Simulator**                  | Java console app with live market-data simulation, threaded price updates, BUY/SELL orders, portfolio & P&L analytics.               | 🔗 [Code](https://github.com/Karam-Saify/trading-simulator)                                                                 |
 
 ---
 
@@ -81,12 +84,5 @@
 </div>
 
 ---
-
-### 🤝 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/karam-al-saify/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 > _“Data isn’t just numbers—it’s the story of what’s happening and what’s next.”_  
