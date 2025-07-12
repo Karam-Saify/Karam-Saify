@@ -2,31 +2,14 @@
 <!--            HEADER              -->
 <!-- =============================== -->
 <div align="center">
-  <!-- Animated solid-color header -->
+  <!-- Animated solid‐color header -->
   <img
-    src="https://capsule-render.vercel.app/api?
-      type=waving
-      &color=17ffe6
-      &height=240
-      &section=header
-      &text=Karam%20Al%20Saify
-      &fontSize=90
-      &fontAlignY=38
-      &desc=Data%20Scientist%20|%20Forecasting%20Specialist
-      &descSize=20
-      &descAlignY=60
-      &animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=17ffe6&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
     alt="header"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Karam Al Saify</h1>
 <h3 align="center">A passionate Data Scientist & Forecasting Specialist from Lebanon</h3>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Karam-Saify">
-    <img src="https://github-profile-trophy.vercel.app/?username=Karam-Saify&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -73,13 +56,13 @@
 ### 🛠 Languages & Tools
 <p align="center">
   <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       alt="Python"       width="40" height="40"/></a>
-  <a href="https://www.numpy.org"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"         alt="NumPy"        width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"       alt="Pandas"       width="40" height="40"/></a>
+  <a href="https://www.numpy.org"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"         alt="NumPy"         width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"       alt="Pandas"        width="40" height="40"/></a>
   <a href="https://scikit-learn.org"      target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org"    target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"   alt="TensorFlow"   width="40" height="40"/></a>
-  <a href="https://pytorch.org"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"     alt="PyTorch"      width="40" height="40"/></a>
+  <a href="https://pytorch.org"           target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"     alt="PyTorch"     width="40" height="40"/></a>
   <a href="https://plotly.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"       alt="Plotly"       width="40" height="40"/></a>
-  <a href="https://www.tableau.com"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"     alt="Tableau"      width="40" height="40"/></a>
+  <a href="https://www.tableau.com"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"     alt="Tableau"     width="40" height="40"/></a>
   <a href="https://www.docker.com"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"       alt="Docker"       width="40" height="40"/></a>
   <a href="https://www.github.com"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"       alt="GitHub"       width="40" height="40"/></a>
 </p>
@@ -88,10 +71,10 @@
 
 ## 🚀 Selected Projects
 
-| Project                                              | Description                                                                                                                           | Link                                                                                                                      |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Mental Health Assessment Web App**                 | Web tool using GAD-7 & PHQ-9 scales to evaluate anxiety/depression, offers personalized advice, social-share buttons & mobile-first UI.  | 🔗 [Code](https://github.com/Karam-Saify/mental-health-assessment-webapp) • 🌐 [Demo](https://karam-saify.github.io/mental-health-assessment-webapp) |
-| **Trading Simulator**                                | Java console app with live market-data simulation, threaded price updates, BUY/SELL orders, portfolio display, P&L analysis & limits. | 🔗 [Code](https://github.com/Karam-Saify/trading-simulator)                                                                 |
+| Project                                | Description                                                                                                                         | Link                                                                                                                        |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Mental Health Assessment Web App**   | A responsive app using GAD-7 & PHQ-9 scales to evaluate anxiety/depression, personalized advice, social-share buttons & mobile UI. | 🔗 [Code](https://github.com/Karam-Saify/mental-health-assessment-webapp) • 🌐 [Demo](https://karam-saify.github.io/mental-health-assessment-webapp) |
+| **Trading Simulator**                  | Java console app with live market data simulation, threaded price updates, BUY/SELL orders, portfolio view, P&L analysis & limits. | 🔗 [Code](https://github.com/Karam-Saify/trading-simulator)                                                                 |
 
 ---
 
@@ -104,6 +87,7 @@
 
 ### 🤝 Let’s Connect
 I’m always open to collaborating on forecasting challenges, mentoring, or data-driven projects:
+
 <p align="center">
   <a href="mailto:karamalsaify10@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -113,6 +97,4 @@ I’m always open to collaborating on forecasting challenges, mentoring, or data
   </a>
 </p>
 
-> “Data isn’t just numbers—it’s the story of what’s happening and what’s next.”  
-
----
+> _“Data isn’t just numbers—it’s the story of what’s happening and what’s next.”_  
