@@ -50,8 +50,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karam-Saify&theme=github-dark&ring=17ffe6&fire=36bcf7&currStreakLabel=ffffff&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karam-Saify&background=0D1117&border=0D1117&ring=17ffe6&fire=36bcf7&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=999999" alt="GitHub Streak" />
 </p>
+
 
 
 ---
