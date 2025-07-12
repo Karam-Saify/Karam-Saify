@@ -15,9 +15,9 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Science** student at  
   <img  
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lau.edu.lb%2F&psig=AOvVaw2p_HjluGCRIGR81_j9XvnB&ust=1752428175421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCx6entt44DFQAAAAAdAAAAABAE" 
+    src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Lebanese_American_University_logo.svg/320px-Lebanese_American_University_logo.svg.png" alt="LAU Logo" 
     alt="LAU Logo"  
-    width="20" height="20"  
+     height="30"  
     style="vertical-align:middle"/>  
   Lebanese American University  
 - 🔭 Currently working on: **AI/ML Forecasting** & **Frontend Data Tools**  
@@ -57,14 +57,35 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"           alt="Python"      width="40" height="40"/></a>
-  <a href="https://numpy.org"             target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"             alt="NumPy"       width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"           alt="Pandas"      width="40" height="40"/></a>
-  <a href="https://www.java.com"          target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"               alt="Java"        width="40" height="40"/></a>
-  <a href="https://plotly.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"               alt="Plotly"      width="40" height="40"/></a>
-  <a href="https://www.tableau.com"       target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"             alt="Tableau"     width="40" height="40"/></a>
-  <a href="https://github.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"               alt="GitHub"      width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com" target="_blank">
+    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x134.png" alt="Tableau" height="32"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
