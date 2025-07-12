@@ -3,7 +3,7 @@
 <!-- =============================== -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=17ffe6&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=6effef&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
     alt="header"/>
 </div>
 
@@ -13,9 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Computer Science** student at  
-  <img src="https://raw.githubusercontent.com/hosein2398/assets/main/logos/lau-logo.png" alt="LAU Logo" height="30"/>  
-  Lebanese American University  
+- 🎓 **Computer Science** student at Lebanese American University  
 - 🔭 Currently working on: **AI/ML Forecasting** & **Frontend Data Tools**  
 - 🌱 Learning: **Advanced Time-Series Models**, **Causal Inference**, **Backend Engineering**  
 - 👯 Looking to collaborate on: **Open-Source Data Science** & **Forecasting Projects**  
@@ -69,17 +67,14 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://plotly.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/hosein2398/assets/main/logos/tableau-logo.png" alt="Tableau" height="30"/>
   </a>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
