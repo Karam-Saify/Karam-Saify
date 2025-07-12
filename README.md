@@ -40,13 +40,19 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karam-Saify&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karam-Saify&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karam-Saify&show_icons=true&count_private=true&title_color=17ffe6&text_color=ffffff&icon_color=36bcf7&bg_color=0d1117&border_color=0d1117" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karam-Saify&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karam-Saify&layout=compact&title_color=17ffe6&text_color=ffffff&bg_color=0d1117&border_color=0d1117" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karam-Saify&theme=github-dark&ring=17ffe6&fire=36bcf7&currStreakLabel=ffffff&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
+</p>
+
 
 ---
 
