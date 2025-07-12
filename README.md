@@ -3,7 +3,7 @@
 <!-- =============================== -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=6effef&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=17ffe6&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
     alt="header"/>
 </div>
 
@@ -14,11 +14,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Science** student at  
-  <img  
-    src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Lebanese_American_University_logo.svg/320px-Lebanese_American_University_logo.svg.png" alt="LAU Logo" 
-    alt="LAU Logo"  
-     height="30"  
-    style="vertical-align:middle"/>  
+  <img src="https://raw.githubusercontent.com/hosein2398/assets/main/logos/lau-logo.png" alt="LAU Logo" height="30"/>  
   Lebanese American University  
 - 🔭 Currently working on: **AI/ML Forecasting** & **Frontend Data Tools**  
 - 🌱 Learning: **Advanced Time-Series Models**, **Causal Inference**, **Backend Engineering**  
@@ -30,6 +26,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
+
   <a href="https://www.linkedin.com/in/karam-al-saify/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -72,20 +69,25 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://plotly.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com" target="_blank">
-    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x134.png" alt="Tableau" height="32"/>
+    <img src="https://raw.githubusercontent.com/hosein2398/assets/main/logos/tableau-logo.png" alt="Tableau" height="30"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
@@ -105,4 +107,4 @@
 
 ---
 
-> _“Data isn’t just numbers—it’s the story of what’s happening and what’s next.”_  
+> _“Data isn’t just numbers—it’s the story of what’s happening and what’s next.”_
