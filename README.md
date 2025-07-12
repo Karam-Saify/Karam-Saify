@@ -2,10 +2,21 @@
 <!--            HEADER              -->
 <!-- =============================== -->
 <div align="center">
-  <!-- Animated gradient header -->
+  <!-- Animated solid-color header -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,15&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20|%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
-    alt="header" color = 17ffe6/>
+    src="https://capsule-render.vercel.app/api?
+      type=waving
+      &color=17ffe6
+      &height=240
+      &section=header
+      &text=Karam%20Al%20Saify
+      &fontSize=90
+      &fontAlignY=38
+      &desc=Data%20Scientist%20|%20Forecasting%20Specialist
+      &descSize=20
+      &descAlignY=60
+      &animation=twinkling"
+    alt="header"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Karam Al Saify</h1>
@@ -61,7 +72,6 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <!-- Devicons row -->
   <a href="https://www.python.org"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       alt="Python"       width="40" height="40"/></a>
   <a href="https://www.numpy.org"         target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"         alt="NumPy"        width="40" height="40"/></a>
   <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"       alt="Pandas"       width="40" height="40"/></a>
@@ -90,11 +100,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karam-Saify&theme=radical&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
-
+---
 
 ### 🤝 Let’s Connect
 I’m always open to collaborating on forecasting challenges, mentoring, or data-driven projects:
 <p align="center">
+  <a href="mailto:karamalsaify10@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/karam-alsaify-b8b264296" target="_blank">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
