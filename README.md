@@ -3,7 +3,7 @@
 <!-- =============================== -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=17ffe6&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=6effef&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%7C%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
     alt="header"/>
 </div>
 
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Science** student at  
   <img  
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lebanese_American_University_logo.svg/64px-Lebanese_American_University_logo.svg.png"  
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lau.edu.lb%2F&psig=AOvVaw2p_HjluGCRIGR81_j9XvnB&ust=1752428175421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCx6entt44DFQAAAAAdAAAAABAE" 
     alt="LAU Logo"  
     width="20" height="20"  
     style="vertical-align:middle"/>  
@@ -62,8 +62,7 @@
   <a href="https://pandas.pydata.org"     target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"           alt="Pandas"      width="40" height="40"/></a>
   <a href="https://www.java.com"          target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"               alt="Java"        width="40" height="40"/></a>
   <a href="https://plotly.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"               alt="Plotly"      width="40" height="40"/></a>
-  <a href="https://www.tableau.com"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"             alt="Tableau"     width="40" height="40"/></a>
-  <a href="https://www.docker.com"        target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"               alt="Docker"      width="40" height="40"/></a>
+  <a href="https://www.tableau.com"       target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"             alt="Tableau"     width="40" height="40"/></a>
   <a href="https://github.com"            target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"               alt="GitHub"      width="40" height="40"/></a>
 </p>
 
