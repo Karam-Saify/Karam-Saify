@@ -5,7 +5,7 @@
   <!-- Animated gradient header -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,15&height=240&section=header&text=Karam%20Al%20Saify&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20|%20Forecasting%20Specialist&descSize=20&descAlignY=60&animation=twinkling"
-    alt="header"/>
+    alt="header" color = 17ffe6/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Karam Al Saify</h1>
@@ -90,21 +90,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karam-Saify&theme=radical&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
----
 
-### 💡 Latest Blog & Resources
-- 📝 **Forecasting 101:** [Intro to SARIMAX in Python](#)
-- 📝 **Comparative Study:** [TCN vs LSTM for Price Prediction](#)
-- 📝 **Tableau Guide:** [Building Customer Segments](#)
-
----
 
 ### 🤝 Let’s Connect
 I’m always open to collaborating on forecasting challenges, mentoring, or data-driven projects:
 <p align="center">
-  <a href="mailto:karamalsaify10@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://www.linkedin.com/in/karam-alsaify-b8b264296" target="_blank">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
