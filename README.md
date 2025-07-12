@@ -97,8 +97,9 @@
 
 ### 📈 Activity & Achievements
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karam-Saify&theme=radical&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karam-Saify&bg_color=0d1117&color=17ffe6&line=00bfa6&point=36bcf7&area=true&area_color=36bcf733&title_color=ffffff&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
+
 
 ---
 
