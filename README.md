@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Karam Al Saify</h1>
-<h3 align="center">A passionate Data Scientist & Forecasting Specialist from Lebanon</h3>
+<h3 align="center">A passionate at the intersection between data and software </h3>
 
 ---
 
